@@ -1,6 +1,6 @@
 # EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
-GGG
+
 
 ## 说明
 
@@ -15,7 +15,7 @@ GGG
 ```
 USERNAME: 你的EUserv账户邮箱或Customer ID 第二个账户
 PASSWORD: 第一个账户密码 第二个账户密码
-```
+```https://github.com/euukey/EUserv_extend/blob/main/README.md
 
 2、设置好环境变量后点击你的仓库上方的 Actions 选项，点击 `I understand...` 按钮确认在 Fork 的仓库上启用 GitHub Actions 。
 
